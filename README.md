@@ -3,7 +3,7 @@
 
 **Course:** AAI-510 Introduction to Artificial Intelligence  
 **University of San Diego — Applied Artificial Intelligence (MS)**  
-**Team 7:** Marco Gonzalez, [Team Member 2], [Team Member 3]  
+**Team 7:** Marco Gonzalez Ortiz, Harsh Modi, Aishwarya Pareek  
 **Date:** June 2026
 
 ---
